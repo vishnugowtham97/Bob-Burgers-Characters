@@ -1,6 +1,8 @@
 
 # Bob's Burger API:
 This is a web application that displays information from the Bob's Burger API using HTML, CSS, JavaScript, and Bootstrap.
+## Introduction
+The Bob's Burgers API is a REST API based on the television show Bob's Burgers. The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show.
 
 ## Features
 The application allows users to:
